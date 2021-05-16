@@ -1,0 +1,167 @@
+[
+  {
+    "reference": "DEGREENTEA",
+    "reference_route": "CRAE94Q",
+    "state": "Delivered",
+    "tracking_number": "DEGREENTEA191115",
+    "cargo": {
+      "weight": "100 kg",
+      "size": "200 cm",
+      "type": "Pallets"
+    },
+    "pickup": {
+      "address": {
+        "company": "Company II GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10999",
+        "street": "Oranienstraße 11"
+      },
+      "date": {
+        "min": "28/11/2019",
+        "max": "29/11/2019"
+      },
+      "hour": {
+        "min": "06:00",
+        "max": "17:00"
+      },
+      "contact": {
+        "name": "Jens Dieter",
+        "email": "jensdieter@email.com",
+        "phone": "+49987555321"
+      }
+    },
+    "drop_off": {
+      "address": {
+        "company": "Company GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10365",
+        "street": "Ruschestraße 103"
+      },
+      "date": {
+        "min": "01/12/2019",
+        "max": "08/12/2019"
+      },
+      "hour": {
+        "min": "09:00",
+        "max": "20:00"
+      },
+      "contact": {
+        "name": "Maria Musterfrau",
+        "email": "marimus@email.com",
+        "phone": "+49987654321"
+      }
+    }
+  },
+  {
+    "reference": "DEWHITETEA",
+    "reference_route": "CRBD04Q",
+    "state": "Delivered",
+    "tracking_number": "DEWHITETEA191115",
+    "cargo": {
+      "weight": "80 kg",
+      "size": "200 cm",
+      "type": "Pallets"
+    },
+    "pickup": {
+      "address": {
+        "company": "Company II GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10999",
+        "street": "Oranienstraße 11"
+      },
+      "date": {
+        "min": "13/11/2019",
+        "max": "14/11/2019"
+      },
+      "hour": {
+        "min": "06:00",
+        "max": "17:00"
+      },
+      "contact": {
+        "name": "Max Mustermann",
+        "email": "maxi@email.com",
+        "phone": "+49987654321"
+      }
+    },
+    "drop_off": {
+      "address": {
+        "company": "Company GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10365",
+        "street": "Ruschestraße 103"
+      },
+      "date": {
+        "min": "15/11/2019",
+        "max": "16/11/2019"
+      },
+      "hour": {
+        "min": "09:00",
+        "max": "20:00"
+      },
+      "contact": {
+        "name": "Maria Musterfrau",
+        "email": "marimus@email.com",
+        "phone": "+49987654321"
+      }
+    }
+  },
+  {
+    "reference": "DEBLACKTEA",
+    "reference_route": "CRAASDQ",
+    "state": "Delivered",
+    "tracking_number": "DEBLACKTEA191115",
+    "cargo": {
+      "weight": "50 kg",
+      "size": "34 cm",
+      "type": "Pallets"
+    },
+    "pickup": {
+      "address": {
+        "company": "Company II GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10999",
+        "street": "Oranienstraße 20"
+      },
+      "date": {
+        "min": "18/11/2019",
+        "max": "20/11/2019"
+      },
+      "hour": {
+        "min": "06:00",
+        "max": "17:00"
+      },
+      "contact": {
+        "name": "Jens Dieter",
+        "email": "jensdieter@email.com",
+        "phone": "+49987555321"
+      }
+    },
+    "drop_off": {
+      "address": {
+        "company": "Company GmbH",
+        "country": "Germany",
+        "city": "Berlin",
+        "postcode": "10365",
+        "street": "Ruschestraße 103"
+      },
+      "date": {
+        "min": "15/11/2019",
+        "max": "16/11/2019"
+      },
+      "hour": {
+        "min": "08:00",
+        "max": "16:00"
+      },
+      "contact": {
+        "name": "Klaus Stein",
+        "email": "klaus.stein@email.com",
+        "phone": "+49987500321"
+      }
+    }
+  }
+]
